@@ -13,6 +13,9 @@
 
 构造函数可以传的参数
 --
+new redRain(obj); 
+
+// obj的内容 <br>
 `el` 元素容器<br>
 `interval` 定时器<br>
 `second` 红包出现时间<br>
