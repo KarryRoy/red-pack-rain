@@ -9,12 +9,12 @@
     		clickfun : function() {
     		}
 		});
-		注意：vm是自定义需要传的参数，可以在插件里面修改。
+		注意：`vm`是自定义需要传的参数，可以在插件里面修改。
 
 构造函数可以传的参数
 --
-		el 元素容器
-		interval 定时器
-		second 红包出现时间
-		density 1s内红包个数
-		callback 回调函数
+`el` 元素容器<br>
+`interval` 定时器<br>
+`second` 红包出现时间<br>
+`density` 1s内红包个数<br>
+`callback` 回调函数<br>
