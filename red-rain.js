@@ -12,6 +12,7 @@ function redRain(obj) {
     me.count = 0; // 抢到的红包数目
 
     me.create();
+    // 修改2
 
     $(obj.el).on('click', '.bao',function(e) {
         if (e.target.getAttribute("data-i") == 1) {
